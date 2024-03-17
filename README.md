@@ -7,3 +7,6 @@ This is just a placeholder for my notes when I have worked on certain systems. I
 
 ## Emacs
 [Doom Emacs](./emacs/doom.md)
+
+## OpenBSD 
+[OpenBSD PC](./openbsd/pc.md)
